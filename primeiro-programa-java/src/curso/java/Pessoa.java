@@ -1,5 +1,7 @@
 package curso.java;
 
+import java.util.Date;
+
 public class Pessoa {
 	
 	private String nome;
@@ -11,7 +13,7 @@ public class Pessoa {
 	
 	private Date dataNascimento;
 	
-	
+
 	public Date getDataNascimento() {
 		return dataNascimento;
 	}
