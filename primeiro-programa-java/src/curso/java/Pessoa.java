@@ -8,6 +8,8 @@ public class Pessoa {
 	
 	private String sobrenome;
 	
+	private String sexo;
+	
 
 	private int idade;
 	
